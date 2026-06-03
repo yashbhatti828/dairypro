@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cust_id": 1,
+    "date": "2026-06-03",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 2,
+    "cust_id": 3,
+    "date": "2026-06-03",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 3,
+    "cust_id": 4,
+    "date": "2026-06-03",
+    "session": "Morning",
+    "items": {
+      "1": 1.0
+    },
+    "total": 60.0
+  },
+  {
+    "id": 4,
+    "cust_id": 5,
+    "date": "2026-06-03",
+    "session": "Morning",
+    "items": {
+      "1": 1.0
+    },
+    "total": 60.0
+  }
+]

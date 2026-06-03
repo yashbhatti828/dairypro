@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Anita",
+    "phone": "",
+    "type": "Buyer",
+    "address": "",
+    "opening_balance": 0.0,
+    "expected_qty": 0.0,
+    "expected_product": "Milk",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Karan",
+    "phone": "",
+    "type": "Buyer",
+    "address": "",
+    "opening_balance": 0.0,
+    "expected_qty": 0.0,
+    "expected_product": "Milk",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Babbu",
+    "phone": "",
+    "type": "Buyer",
+    "address": "",
+    "opening_balance": 0.0,
+    "expected_qty": 0.0,
+    "expected_product": "Milk",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Laddi",
+    "phone": "",
+    "type": "Buyer",
+    "address": "",
+    "opening_balance": 0.0,
+    "expected_qty": 0.0,
+    "expected_product": "Milk",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Nirmal",
+    "phone": "",
+    "type": "Buyer",
+    "address": "",
+    "opening_balance": 0.0,
+    "expected_qty": 0.0,
+    "expected_product": "Milk",
+    "active": true
+  }
+]
