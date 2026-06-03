@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "cust_id": 1,
+    "date": "2026-05-01",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 2,
+    "cust_id": 1,
+    "date": "2026-05-01",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 3,
+    "cust_id": 1,
+    "date": "2026-05-02",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 4,
+    "cust_id": 1,
+    "date": "2026-05-02",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 5,
+    "cust_id": 1,
+    "date": "2026-05-03",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 6,
+    "cust_id": 1,
+    "date": "2026-05-03",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 7,
+    "cust_id": 1,
+    "date": "2026-05-04",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 8,
+    "cust_id": 1,
+    "date": "2026-05-04",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 9,
+    "cust_id": 1,
+    "date": "2026-05-05",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 10,
+    "cust_id": 1,
+    "date": "2026-05-05",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 11,
+    "cust_id": 1,
+    "date": "2026-05-06",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 12,
+    "cust_id": 1,
+    "date": "2026-05-06",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 13,
+    "cust_id": 1,
+    "date": "2026-05-07",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 14,
+    "cust_id": 1,
+    "date": "2026-05-07",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 15,
+    "cust_id": 1,
+    "date": "2026-05-08",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 16,
+    "cust_id": 1,
+    "date": "2026-05-08",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 17,
+    "cust_id": 1,
+    "date": "2026-05-09",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 18,
+    "cust_id": 1,
+    "date": "2026-05-09",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 19,
+    "cust_id": 1,
+    "date": "2026-05-10",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 20,
+    "cust_id": 1,
+    "date": "2026-05-10",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 21,
+    "cust_id": 1,
+    "date": "2026-05-11",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 22,
+    "cust_id": 1,
+    "date": "2026-05-11",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 23,
+    "cust_id": 1,
+    "date": "2026-05-12",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 24,
+    "cust_id": 1,
+    "date": "2026-05-12",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 25,
+    "cust_id": 1,
+    "date": "2026-05-13",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 26,
+    "cust_id": 1,
+    "date": "2026-05-13",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 27,
+    "cust_id": 1,
+    "date": "2026-05-14",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 28,
+    "cust_id": 1,
+    "date": "2026-05-14",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 29,
+    "cust_id": 1,
+    "date": "2026-05-15",
+    "session": "Morning",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 30,
+    "cust_id": 1,
+    "date": "2026-05-15",
+    "session": "Evening",
+    "items": {
+      "1": 1.5
+    },
+    "total": 90.0
+  },
+  {
+    "id": 31,
+    "cust_id": 1,
+    "date": "2026-06-03",
+    "session": "Morning",
+    "items": {
+      "1": 1.6666
+    },
+    "total": 100.0
+  },
+  {
+    "id": 32,
+    "cust_id": 1,
+    "date": "2026-06-01",
+    "session": "Morning",
+    "items": {
+      "1": 1.6666
+    },
+    "total": 100.0
+  },
+  {
+    "id": 33,
+    "cust_id": 1,
+    "date": "2026-06-01",
+    "session": "Evening",
+    "items": {
+      "1": 1.6666
+    },
+    "total": 100.0
+  },
+  {
+    "id": 34,
+    "cust_id": 1,
+    "date": "2026-06-02",
+    "session": "Morning",
+    "items": {
+      "1": 1.6666
+    },
+    "total": 100.0
+  },
+  {
+    "id": 35,
+    "cust_id": 1,
+    "date": "2026-06-02",
+    "session": "Evening",
+    "items": {
+      "1": 1.6666
+    },
+    "total": 100.0
+  },
+  {
+    "id": 36,
+    "cust_id": 1,
+    "date": "2026-06-03",
+    "session": "Evening",
+    "items": {
+      "1": 1.6666
+    },
+    "total": 100.0
+  }
+]
